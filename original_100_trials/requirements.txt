@@ -1,0 +1,3 @@
+# Python core tools use only the standard library.
+# Install matplotlib only when making the final figures.
+matplotlib>=3.8,<4

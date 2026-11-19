@@ -1,0 +1,10 @@
+{
+  "original_archive_sha256": "8e1b7a3fbb754e872bf35f469999f8eac652699a2c738c5062c2ba8e55ba6bba",
+  "phase4_code_sha256_verified": "67a6c9228c6f5327c5078580add26164705e4fa0a37e1e7705350e3c8c756c1d",
+  "analysis_note": "Download of original Phase4 source ZIP in the working environment was independently hash-matched to study_plan.json.",
+  "study_dir": "study_20261103T221415Z",
+  "trial_count": 32,
+  "event_count": 256,
+  "ai_overlap_events": 128,
+  "ai_request_finishes_counted_across_ai_trials": 164
+}

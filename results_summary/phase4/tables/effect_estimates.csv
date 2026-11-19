@@ -1,0 +1,4 @@
+comparison,blocks,mean_unprotected_minus_protected_ms,ci95_low_ms,ci95_high_ms,median_difference_ms,positive_blocks,exact_two_sided_sign_test_p
+AI off,8,56.405242,41.956417,70.854067,45.063153,8,0.0078125
+AI on,8,58.568798,37.74357,79.394025,58.955466,8,0.0078125
+Block-averaged,8,57.48702,45.07743,69.89661,58.910757,8,0.0078125

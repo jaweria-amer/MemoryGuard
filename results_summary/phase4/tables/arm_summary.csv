@@ -1,0 +1,5 @@
+arm,name,trials,events,cold_first_mean_ms,cold_first_median_ms,cold_first_sd_ms,cold_first_min_ms,cold_first_max_ms,warm_median_ms,warm_max_ms,all_event_median_ms,first_faults_total,refaults_total,monitor_memory_stall_total_us,high_events_total,on_time,late,missed,ai_tps_mean
+noai_low0,No AI · unprotected,8,64,57.092637,45.823867,17.363898,42.799221,81.479996,0.977089,5.29245,1.028298,1859,56356,160038,16192,64,0,0,
+noai_low192,No AI · 192 MiB protected,8,64,0.687395,0.596274,0.338862,0.410253,1.441426,0.985964,4.218026,0.952943,0,0,0,16441,64,0,0,
+ai_low0,Ollama · unprotected,8,64,59.214005,60.142515,24.758891,30.305604,89.242221,0.317418,2.546516,0.32321,1860,56378,130420,16426,64,0,0,72.25713
+ai_low192,Ollama · 192 MiB protected,8,64,0.645207,0.312648,0.497364,0.280293,1.399175,0.327981,47.805957,0.326315,0,0,0,16394,64,0,0,72.4125

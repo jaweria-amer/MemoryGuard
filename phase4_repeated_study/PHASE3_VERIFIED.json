@@ -1,0 +1,62 @@
+[
+  {
+    "label": "r1_noai_low0",
+    "low_mib": 0,
+    "ai_enabled": false,
+    "first_alert_ms": 56.746351,
+    "median_all_eight_ms": 0.8354634999999999,
+    "min_alert_ms": 0.650046,
+    "max_alert_ms": 56.746351,
+    "faults": 233,
+    "refaults": 7055,
+    "reclaim_scans": 48703,
+    "high_events": 2148,
+    "inference_requests_during_trial": 0,
+    "ai_tokens_per_second_median": null
+  },
+  {
+    "label": "r1_noai_low192",
+    "low_mib": 192,
+    "ai_enabled": false,
+    "first_alert_ms": 0.341502,
+    "median_all_eight_ms": 0.8747555,
+    "min_alert_ms": 0.341502,
+    "max_alert_ms": 1.139965,
+    "faults": 0,
+    "refaults": 0,
+    "reclaim_scans": 0,
+    "high_events": 2080,
+    "inference_requests_during_trial": 0,
+    "ai_tokens_per_second_median": null
+  },
+  {
+    "label": "r1_ai_low192",
+    "low_mib": 192,
+    "ai_enabled": true,
+    "first_alert_ms": 0.394545,
+    "median_all_eight_ms": 0.340523,
+    "min_alert_ms": 0.291251,
+    "max_alert_ms": 0.394545,
+    "faults": 0,
+    "refaults": 0,
+    "reclaim_scans": 0,
+    "high_events": 2081,
+    "inference_requests_during_trial": 11,
+    "ai_tokens_per_second_median": 76.24
+  },
+  {
+    "label": "r1_ai_low0",
+    "low_mib": 0,
+    "ai_enabled": true,
+    "first_alert_ms": 37.022768,
+    "median_all_eight_ms": 0.346294,
+    "min_alert_ms": 0.277127,
+    "max_alert_ms": 37.022768,
+    "faults": 232,
+    "refaults": 7034,
+    "reclaim_scans": 48511,
+    "high_events": 2147,
+    "inference_requests_during_trial": 10,
+    "ai_tokens_per_second_median": 73.70349999999999
+  }
+]
